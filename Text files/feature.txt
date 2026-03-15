@@ -1,1 +1,3 @@
 New feature added
+
+New feature-2 fixed
